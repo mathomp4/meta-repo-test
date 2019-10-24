@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "@env": "git@github.com:GEOS-ESM/ESMA_env.git",
+    "src/Shared/@NCEP_Shared": "git@github.com:GEOS-ESM/NCEP_Shared.git"
+  }
+}
